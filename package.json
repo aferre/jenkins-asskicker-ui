@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-asskicker-ui",
+  "description": "Jenkins asskicker GUI",
+  "devDependencies": {
+        "phantomjs" : "*",
+        "karma" : "*",
+        "karma-junit-reporter" : "*",    
+        "karma-jasmine" : "*",
+        "karma-ng-scenario" : "*"
+    }
+}
